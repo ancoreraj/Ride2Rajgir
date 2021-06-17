@@ -3560,6 +3560,12 @@ hr {
         padding: 30px 42px
     }
 }
+@media (max-width: 575px) {
+    .logo img{
+        width: 50% !important;
+
+    }
+}
 
 .contact-form textarea::placeholder {
     color: #071112;
